@@ -2,7 +2,7 @@
 - 👀 I’m interested in MERN Stack Web Development 
 - 🌱 I’m recently completed HTML5,CSS3,JavaScript,React.js,Node.js,Express.js,MongoDB 
 - 💞️ I’m looking to collaborate on Web Development projects 
-- 📫 How to reach me smartaman1016@gmail.com 
+- 📫 Reach me out at smartaman1016@gmail.com 
 
 <!---
 Am10aN16/Am10aN16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
