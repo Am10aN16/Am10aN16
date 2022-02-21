@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.png](./images/github-banner.png)
+![banner.png](./images/backgit.png)
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
@@ -10,7 +10,7 @@
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-![background.png](./images/github-back.jpg)
+![background.png](./images/back1111.jpg)
 
 <br>
 
