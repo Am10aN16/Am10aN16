@@ -1,6 +1,6 @@
 <!-- ----------- HEAD SECTION ------------ -->
 
-![banner.png](./images/backgit.png)
+![banner.png](./images/backgithub1.png)
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
