@@ -9,7 +9,26 @@
 </p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<h1 align="center">Hey there! 👋, I'm Aman Poddar</h1>
 
+<h3 align="center">An enthusiastic student pursuing B.Tech degree in Computer Science & Engineering and always excited about learning new technologies.</h3>
+
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*v8Z6faF7ij8iSwunSMcTZA.gif">
+<!-- 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikagupta19&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagupta19" /> </p> -->
+
+
+- 🔭 I’m currently working **as a MERN Stack Developer.**
+
+- 🌱 I’m currently learning **C++**
+
+- 👯 I’m looking to collaborate on **Web Development projects.**
+
+- 💬 Ask me about **anything as I am passionate about technology.**
+
+- 📫 How to reach me **: Reach me through LinkedIn https://www.linkedin.com/in/aman-kr-poddar-7ab5bb202/**
+
+- ⚡ Fun fact **I love to travel.*
 
 <br>
 
