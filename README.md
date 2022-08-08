@@ -13,7 +13,7 @@
 
 <h3 align="center">An enthusiastic student pursuing B.Tech degree in Computer Science & Engineering and always excited about learning new technologies.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*v8Z6faF7ij8iSwunSMcTZA.gif">
+<img align="right" alt="Coding" width="400" src="./images/signup.gif">
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikagupta19&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagupta19" /> </p> -->
 
