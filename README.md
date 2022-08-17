@@ -9,7 +9,7 @@
 </p>
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
+<!-- ----------- CREDIT OF THIS SECTION TO ISHIKA GUPTA------------ -->
 <h3 align="center">An enthusiastic student pursuing B.Tech degree in Computer Science & Engineering and always excited about learning new technologies.</h3>
 
 <img align="right" alt="Coding" width="400" src="./images/signup.gif">
@@ -30,7 +30,7 @@
 - ⚡ Fun fact **: I love to travel.**
 
 <br>
-
+<!-- ----------- CREDIT OF THIS SECTION TO ISHIKA GUPTA------------ -->
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <!-- ----------- HEAD SECTION END ------------ -->
