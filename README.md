@@ -30,9 +30,9 @@
 - ⚡ Fun fact **: I love to travel.**
 
 <br>
-<!-- ----------- CREDIT OF THIS SECTION TO ISHIKA GUPTA------------ -->
-![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
+![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<!-- ----------- CREDIT OF THIS SECTION TO ISHIKA GUPTA------------ -->
 <!-- ----------- HEAD SECTION END ------------ -->
 
 <!-- ----------- TECH STACK SECTION ------------ -->
