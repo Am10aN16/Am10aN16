@@ -8,13 +8,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There+👋+I'm+Aman;+An+Open+Source+Enthusiast+☀;MERN+Stack+Web+Developer+💻;Loves+To+Build+Projects+🛠;A+Problem+Solver+🕵;">
 </p>
 
+
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!-- ----------- CREDIT OF THIS SECTION TO ISHIKA GUPTA------------ -->
 <h3 align="center">An enthusiastic student pursuing B.Tech degree in Computer Science & Engineering and always excited about learning new technologies.</h3>
 
 <img align="right" alt="Coding" width="400" src="./images/signup.gif">
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishikagupta19&label=Profile%20views&color=0e75b6&style=flat" alt="ishikagupta19" /> </p> -->
+
 
 
 - 🔭 I’m currently working **as a MERN Stack Developer.**
@@ -30,6 +30,7 @@
 - ⚡ Fun fact **: I love to travel.**
 
 <br>
+
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 <!-- ----------- CREDIT OF THIS SECTION TO ISHIKA GUPTA------------ -->
@@ -65,6 +66,7 @@
 <br>
 <a href="https://mobile.twitter.com/aman_sah1" target="blank"><img src="https://img.shields.io/twitter/follow/aman_sah1?logo=twitter&style=for-the-badge" alt="aman_sah1" /></a>
 </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Am10aN16&label=Profile%20views&color=0e75b6&style=flat" alt="Am10aN16" />  </p> 
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
