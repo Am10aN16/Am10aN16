@@ -10,7 +10,6 @@
 
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<!-- ----------- CREDIT OF THIS SECTION TO ISHIKA GUPTA------------ -->
 <h3 align="center">An enthusiastic student pursuing B.Tech degree in Computer Science & Engineering and always excited about learning new technologies.</h3>
 
 <img align="right" alt="Coding" width="400" src="./images/signup.gif">
@@ -33,7 +32,7 @@
 
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-<!-- ----------- CREDIT OF THIS SECTION TO ISHIKA GUPTA------------ -->
+
 <!-- ----------- HEAD SECTION END ------------ -->
 
 <!-- ----------- TECH STACK SECTION ------------ -->
@@ -50,7 +49,7 @@
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Am10aN16&theme=react" />
 
-[![Am10aN16's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Am10aN16&bg_color=000000&color=1fdbd8&line=ff5c5c&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Am10aN16&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -74,6 +73,6 @@
 
 [twitter]: https://mobile.twitter.com/aman_sah1
 [instagram]: https://www.instagram.com/aman_sah_1016/
-[linkedin]: https://www.linkedin.com/in/aman-kr-poddar-7ab5bb202/
+[linkedin]: https://www.linkedin.com/in/amanpoddar10/
 [github]:https://github.com/Am10aN16
-[gmail]:mailto:smartaman1016@gmail.com
+[gmail]:mailto:poddaraman1016@gmail.com
