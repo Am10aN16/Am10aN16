@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **anything as I am passionate about technology.**
 
-- 📫 How to reach me **: Reach me through LinkedIn https://www.linkedin.com/in/aman-kr-poddar-7ab5bb202/**
+- 📫 How to reach me **: Reach me through LinkedIn https://www.linkedin.com/in/amanpoddar10/**
 
 - ⚡ Fun fact **: I love to travel.**
 
@@ -63,7 +63,7 @@
 <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Am10aN16"/></a> <a href="https://www.linkedin.com/in/aman-kr-poddar-7ab5bb202/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Am10aN16_linkedIn"/></a> <a href="https://www.instagram.com/aman_sah_1016/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Am10aN16" /></a>
 <br>
 <br>
-<a href="https://mobile.twitter.com/aman_sah1" target="blank"><img src="https://img.shields.io/twitter/follow/aman_sah1?logo=twitter&style=for-the-badge" alt="aman_sah1" /></a>
+<a href="https://x.com/aman_sah1" target="blank"><img src="https://img.shields.io/twitter/follow/aman_sah1?logo=twitter&style=for-the-badge" alt="aman_sah1" /></a>
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Am10aN16&label=Profile%20views&color=0e75b6&style=flat" alt="Am10aN16" />  </p> 
 
