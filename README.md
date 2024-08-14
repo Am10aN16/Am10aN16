@@ -49,7 +49,7 @@
 
 <p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com/?user=Am10aN16&theme=react" />
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Am10aN16&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Aman's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Am10aN16&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![-------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
